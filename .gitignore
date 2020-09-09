@@ -10,8 +10,6 @@
 *.hdf5
 *.weights
 *.traineddata
-*.jpg
-*.png
 dist
 buil
 .DS_Store*
