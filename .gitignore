@@ -1,0 +1,21 @@
+# Python:
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+*.pth
+*.pb
+*.h5
+*.pbtxt
+*.hdf5
+*.weights
+*.traineddata
+*.jpg
+*.png
+dist
+buil
+.DS_Store*
+.ipynb_checkpoints
+__pycache__
+dump.rdb
+define
