@@ -1,6 +1,6 @@
 # table-detect
 ## table detect(yolo) , table line(unet) （表格检测/表格单元格定位）
-links: http://demo.xliane.com:11000/static/models/table-detect/  
+links: http://gofile.me/4Nlqh/fNHlWzVWo  
 models weights download and move to ./modes    
 
 
