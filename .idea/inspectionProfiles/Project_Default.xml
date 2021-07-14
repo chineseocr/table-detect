@@ -1,0 +1,32 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="19">
+            <item index="0" class="java.lang.String" itemvalue="shapely" />
+            <item index="1" class="java.lang.String" itemvalue="scipy" />
+            <item index="2" class="java.lang.String" itemvalue="pydantic" />
+            <item index="3" class="java.lang.String" itemvalue="alembic" />
+            <item index="4" class="java.lang.String" itemvalue="opencv-python" />
+            <item index="5" class="java.lang.String" itemvalue="aiofiles" />
+            <item index="6" class="java.lang.String" itemvalue="psycopg2-binary" />
+            <item index="7" class="java.lang.String" itemvalue="Levenshtein" />
+            <item index="8" class="java.lang.String" itemvalue="numpy" />
+            <item index="9" class="java.lang.String" itemvalue="pyclipper" />
+            <item index="10" class="java.lang.String" itemvalue="python-multipart" />
+            <item index="11" class="java.lang.String" itemvalue="loguru" />
+            <item index="12" class="java.lang.String" itemvalue="sqlalchemy" />
+            <item index="13" class="java.lang.String" itemvalue="fastapi" />
+            <item index="14" class="java.lang.String" itemvalue="tensorflow" />
+            <item index="15" class="java.lang.String" itemvalue="pillow" />
+            <item index="16" class="java.lang.String" itemvalue="sklearn" />
+            <item index="17" class="java.lang.String" itemvalue="keras" />
+            <item index="18" class="java.lang.String" itemvalue="xmltodict" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

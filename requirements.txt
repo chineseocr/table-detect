@@ -3,7 +3,8 @@ pillow
 h5py
 scipy
 numpy
-tensorflow-gpu
+tensorflow-gpu==2.5
 scikit-learn
 matplotlib
 scikit-image
+xlwt

@@ -5,6 +5,5 @@ Created on Thu Sep 10 02:52:45 2020
 @author: chineseocr
 """
 import sys
+
 sys.path.append('.')
-
-
